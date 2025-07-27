@@ -30,10 +30,7 @@ I specialize in creating, breaking, and bending the rules of software—one deto
 
 ## 🌱 Currently Growing In
 
-- cheats
-- cheat loaders
-- anti cheats
-- other kinda the same
+- just some things undocumented
 
 ---
 
