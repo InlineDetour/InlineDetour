@@ -3,16 +3,14 @@
 Welcome, Earthlings. I'm **InlineDetour**, a curious green alien navigating the source code of your world.  
 I specialize in creating, breaking, and bending the rules of software—one detour at a time.
 
-![Alien](https://emoji.gg/assets/emoji/alien.png)
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Always exploring new tech and code patterns
-- 🔧 Systems tinkerer, low-level enthusiast, and reverse engineer
-- 💻 Passionate about open-source, performance, and clean architecture
-- 🌌 Probably rewriting something that already works... better
+- 🧠 Always exploring
+- 🔧 low-level enthusiast
+- 💻 Passionate about open-source, performance
 
 ---
 
