@@ -3,28 +3,27 @@
 Welcome, Earthlings. I'm **InlineDetour**, a curious green alien navigating the source code of your world.  
 I specialize in creating, breaking, and bending the rules of software—one detour at a time.
 
-
 ---
 
 ## 🚀 About Me
 
-- 🧠 Always exploring
-- 🔧 low-level enthusiast
-- 💻 Passionate about open-source, performance
+- 🧠 Always exploring  
+- 🔧 low-level enthusiast  
+- 💻 Passionate about open-source, performance  
 
 ---
 
 ## 🛠️ Languages & Tools
 
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![InlineDetour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InlineDetour&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InlineDetour&layout=compact&theme=radical)
+![InlineDetour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InlineDetour&show_icons=true&theme=radical&hide_title=true&cache_seconds=300&v=1)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InlineDetour&layout=compact&theme=radical&cache_seconds=300&v=1)
 
 ---
 
@@ -42,7 +41,7 @@ I specialize in creating, breaking, and bending the rules of software—one deto
 
 ### ☕ Contact / Conspire
 
-- 📨 Reach me via GitHub Issues or Discussions
+- 📨 Reach me via GitHub Issues or Discussions  
 - 🛸 Beam a signal my way when collaboration strikes
 
 ---
