@@ -13,7 +13,7 @@ I specialize in creating, breaking, and bending the rules of software—one deto
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
